@@ -1,0 +1,28 @@
+Sorting algorithms
+
+Sorting algorithms are used to rearrange a list of items in a particular order. 
+
+Selection sort algorithm
+
+Example steps:
+1. start at index 0
+2. find the smallest element in the list
+3. swap the smallest element with the element at index 0
+4. move to index + 1
+5. repeat steps 2-4 until you reach the end of the list
+
+You can notice that in this algorithm there's not for loop. Instead, we use a while loop
+to keep repeating the same steps while the input is NOT empty.
+
+
+
+Bubble sort algorithm
+
+Example steps:
+1. start at index 0
+2. compare element at index 0 with element at index 1
+3. if element at index 0 is bigger than element at index 1, swap them
+4. move to index + 1
+5. repeat steps 2-4 until you reach the end of the list
+
+

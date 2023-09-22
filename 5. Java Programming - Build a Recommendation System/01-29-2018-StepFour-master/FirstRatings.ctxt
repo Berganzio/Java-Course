@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FirstRatings
+comment0.text=\r\n\ This\ class\ has\ been\ created\ as\ a\ requirement\ for\ this\ Assignment.\r\n\ \r\n\ @author\ (Abraham\ Ferrero)\ \r\n\ @version\ (19/DIC/2017)\r\n
+comment1.params=
+comment1.target=void\ testLoadMovies()
+comment2.params=
+comment2.target=void\ testLoadRaters()
+numComments=3

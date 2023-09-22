@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=mystery
+comment1.params=
+comment1.target=void\ testMystery()
+comment2.params=dna
+comment2.target=java.lang.String\ mysteryMethod(java.lang.String)
+numComments=3

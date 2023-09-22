@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MovieRunnerAverage
+comment0.text=\r\n\ Method\ created\ as\ requested\ in\ the\ Assignment.\r\n\ \r\n\ @author\ (Abraham\ Ferrero)\ \r\n\ @version\ (17/01/2018)\r\n
+comment1.params=
+comment1.target=void\ printAverageRatings()
+comment2.params=
+comment2.target=void\ getAverageRatingOneMovie()
+numComments=3
